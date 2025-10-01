@@ -1,5 +1,2 @@
-# Headline
+#  福州大学2025年振奋杯培训
 
-> An awesome project.
-
-[guide](guide.md)
