@@ -14,4 +14,4 @@
 
 [详情见>>](lifeguard/detial/General.md)
 
-[<<回首页](../README.md)
+[<<回首页](README.md)

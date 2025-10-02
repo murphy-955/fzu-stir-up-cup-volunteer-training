@@ -22,4 +22,4 @@
 - 与另一个救生员抬起水道线，将运动员使用[双人上岸](https://www.bilibili.com/video/BV1Sd4y1f7kR?spm_id_from=333.788.videopod.sections)法，就近带上岸
 - 执行[体外心肺复苏术流程>>](lifeguard/detial/CPR.md)
 
-[<<回首页](../README.md)
+[<<回首页](README.md)
