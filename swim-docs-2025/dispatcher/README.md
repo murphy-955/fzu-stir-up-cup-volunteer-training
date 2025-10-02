@@ -19,3 +19,5 @@
 1. 2号发令员喊出”**各就位**“后运动员身体晃动。
 
 [举个栗子](https://www.bilibili.com/video/BV1yKn3z6EQF/?spm_id_from=333.337.search-card.all.click)
+
+[<<回首页](../README.md)
