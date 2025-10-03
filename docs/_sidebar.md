@@ -14,6 +14,7 @@
     - [🚀游进技术检查详情见>>](technical-docs/swim-into-technology.md)
     - [🚀转身，到边技术检查详情见>>](technical-docs/turning-technique.md)
     - [🚀出发技术检查详情见>>](technical-docs/departure-technology.md)
+    - [🚀试水注意事项](warm-up/README.md)
 - 应急预案
   - [🚀游泳运动员溺水应急预案](emergency-plan/drowning-emergency-plan.md)
   - [🚀恶劣天气预案](emergency-plan/severe-weather-emergency-plan.md)
