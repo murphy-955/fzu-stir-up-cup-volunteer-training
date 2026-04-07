@@ -1,0 +1,12 @@
+# IDE
+.idea/
+
+# Scripts
+scripts/
+
+# AI Assistant
+AGENT.md
+AGENTS.md
+
+# Reference documents
+2026-2-18世界泳联技术说明.pdf
